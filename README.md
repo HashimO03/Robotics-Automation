@@ -1,3 +1,6 @@
+width="800" height="533" alt="1744572467271" src="https://github.com/user-attachments/assets/eb3d607a-b600-493e-9972-51db117517a4" />
+
+
 # 🤖 Autonomous Robotics & Automation System
 **University of Sheffield**
  
@@ -20,4 +23,4 @@ An autonomous robot built for two main tasks: **line-following navigation** and 
 ## Features
 - **Line Following** — real-time IR sensor feedback with PID-based motor correction
 - **Robotic Arm** — servo-controlled arm performing precision tasks (e.g., drawing)
-- **Integrated System** — sensors, motors, and microcontroller working as one unified platform<img width="800" height="533" alt="1744572467271" src="https://github.com/user-attachments/assets/eb3d607a-b600-493e-9972-51db117517a4" />
+- **Integrated System** — sensors, motors, and microcontroller working as one unified platform<img 
