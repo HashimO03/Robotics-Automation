@@ -23,4 +23,4 @@ An autonomous robot built for two main tasks: **line-following navigation** and 
 ## Features
 - **Line Following** — real-time IR sensor feedback with PID-based motor correction
 - **Robotic Arm** — servo-controlled arm performing precision tasks (e.g., drawing)
-- **Integrated System** — sensors, motors, and microcontroller working as one unified platform<img 
+- **Integrated System** — sensors, motors, and microcontroller working as one unified platform
