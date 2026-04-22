@@ -1,4 +1,4 @@
-width="800" height="533" alt="1744572467271" src="https://github.com/user-attachments/assets/eb3d607a-b600-493e-9972-51db117517a4" />
+<img width="800" height="533" alt="1744572467271" src="https://github.com/user-attachments/assets/946694eb-a62d-4a1e-8b2b-28e2b50c2278" />
 
 
 # 🤖 Autonomous Robotics & Automation System
